@@ -28,4 +28,4 @@ void main()
   }
  printf( "\n %f %c %f = %f", n1, operator, n2, result);
  
- }
+}
